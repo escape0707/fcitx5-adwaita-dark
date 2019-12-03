@@ -1,4 +1,4 @@
-# An Fcitx5 dark theme mimics GNOME Adwaita-dark.
+# An Fcitx5 dark theme mimics GNOME Adwaita-dark
 
 ## Screenshots
 
@@ -9,7 +9,6 @@
 - Menu:
 
   ![Screenshot for menu](img/fcitx5-adwaita-dark-theme-menu.png)
-
 
 ## Usage
 
