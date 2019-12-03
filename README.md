@@ -13,10 +13,10 @@
 
 ## Usage
 
-1. Download the contents of this repo into `/usr/share/fcitx5/themes/adwaita-dark`, or use `git clone` with `sudo` like what I've done for myself:
+1. Download the contents of this repo into `~/.local/share/fcitx5/themes/adwaita-dark`, or use `git clone`:
 
    ```bash
-   sudo git clone https://github.com/escape0707/fcitx5-adwaita-dark.git /usr/share/fcitx5/themes/adwaita-dark
+   git clone https://github.com/escape0707/fcitx5-adwaita-dark.git ~/.local/share/fcitx5/themes/adwaita-dark
    ```
 
 2. (Create and) Change `~/.config/fcitx5/conf/classicui.conf` like this:
