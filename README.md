@@ -10,9 +10,15 @@
 
   ![Screenshot for menu](img/fcitx5-adwaita-dark-theme-menu.png)
 
-## Usage
+## How to use
 
-1. Download the contents of this repo into `~/.local/share/fcitx5/themes/adwaita-dark`, or use `git clone`:
+1. For Arch users:
+
+   Install from [AUR](https://aur.archlinux.org/packages/fcitx5-skin-adwaita-dark/): `fcitx5-skin-adwaita-dark`
+
+   For other distros' users:
+
+   Download this repo into `~/.local/share/fcitx5/themes/adwaita-dark`, or better, use `git clone`:
 
    ```bash
    git clone https://github.com/escape0707/fcitx5-adwaita-dark.git ~/.local/share/fcitx5/themes/adwaita-dark
