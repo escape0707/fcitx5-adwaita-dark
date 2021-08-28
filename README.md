@@ -31,8 +31,8 @@
    Vertical Candidate List=False
    # Use Per Screen DPI
    PerScreenDPI=True
-   # Font for Chinese and English, then font size
-   Font="Noto Sans CJK SC Regular Noto Sans Regular 12"
+   # Set font for Chinese then font size
+   Font="Noto Sans CJK SC 12"
    # Theme
    Theme=adwaita-dark
    ```
